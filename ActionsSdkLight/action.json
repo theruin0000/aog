@@ -1,0 +1,47 @@
+{
+  "actions": [
+    {
+      "description": "Default Welcome Intent",
+      "name": "MAIN",
+      "fulfillment": {
+        "conversationName": "welcome"
+      },
+      "intent": {
+        "name": "actions.intent.MAIN"
+      }
+    },
+    {
+      "description": "Turn on off",
+      "name": "Turn on off",
+      "fulfillment": {
+        "conversationName": "turn_onoff"
+      },
+      "intent": {
+        "name": "turn.onoff",
+        "parameters": [{
+          "name": "onoff",
+          "type": "org.schema.type.Text"
+        }],
+        "trigger": {
+          "queryPatterns": [
+            "Turn $org.schema.type.Text:onoff light",
+            "Switch $org.schema.type.Text:onoff light",
+            "Power $org.schema.type.Text:onoff light"
+          ]
+        }
+      }
+    }
+  ],
+  "conversations": {
+    "welcome": {
+      "name": "welcome",
+      "url": "https://us-central1-asdasd-322fd.cloudfunctions.net/actionssdk",
+      "fulfillmentApiVersion": 2
+    },
+    "turn_onoff": {
+      "name": "turn_onoff",
+      "url": "https://us-central1-asdasd-322fd.cloudfunctions.net/actionssdk",
+      "fulfillmentApiVersion": 2
+    }
+  }
+}

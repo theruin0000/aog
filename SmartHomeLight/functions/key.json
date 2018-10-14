@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smarthomelight-32b56",
+  "private_key_id": "1a7881957ea6474d3a8bbcd4854a4e3f3bdf285d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAvrjcsCTgnbOO\nmVErLjgS8f6bP9EdGkXDrNtg14i4kI1dlr4SYBpQpseCtOGQeMecQG1BqW6qlduQ\nh84RMF4yzu4FzsbRvRjJybVDYZcT1AMVagTkopJnfvGDD0BydXwGi/rjLPk2Vm3N\n99TJpupXZJfaf41SHavO+7+Kmfb6wnwclJu60sjxJsF8c7mNgEKoqajgDfam+GFH\n4Ub00wvOV43jtOLCCtiArmKah9JHy3/rAvu42iAyUN1if9qKicm3Iu8qL27B17BJ\n/xtOcq5fqm/ZoNwDEuhJSQcRw/mIsJCgJ5TYQpzZWttGZPVQl4/jSE1H6YvXUCQR\ndvXO1raRAgMBAAECggEAIBE7IWBe6k3ie0WPxw7b/m7rjLnL2TsvQzRllVGWqhpG\norz7J4R8rFFrHRhp9MbbcugXJVcClffzvTKS+rIg4fQijq3Nz0RWNPBNq4W3hHGA\nB9aJNN7FW9m3ZbYqY0Cfn1k3pwcq+Trc7ukeKmSOVXbjetNA2FoeZQPmZLFj8WkS\noHr1XucTgg5+dPb8tLcyfNgrhly7PpA4PBwTGdHhlyrd0+2vxTtiX8yEi9gYBOXn\niM5UpXZ8q3q/ScRDuQuj8cIlr/odXKDKYxtF6HXOKlt/xH1tSyXaaO/NVQkaRPM6\nlKhFJ92hP5ALmNpqLs6y+EdzUIAQ7oIywTphNeBbxwKBgQD5sUGyRikoP8UYhKnI\nPQHY0RfnggTGOtcIQLmJpkT47usl8Z082u7o6d84IxHXwiEx1/FIMEN/ZyYZxeSk\ncl4BgTPhPFl3OPLwr8jAzECIW7AZn0NeijNPo6OgXL8ywyvPg42Z8/EqNzJPg3Tq\nPOrnSTLzK3FuecjVjgCeXwPX6wKBgQDFnTDNBrmPYs9aKaKrpftlxH0871nuDYwT\nLs2xl+0kHeC4OWKWX58k5KfItF+APsjsO9rVK/A1PQ1r0xZee3Qzzd/CYidoFf84\nZxht+oruJOcj2s1lCnMckSruE82/OM+Oh4/sfwk8grCl8U7NbaXI2bNojUB+ydgv\nQ933WyAocwKBgQDK21PAfnfZl1WNgdpeMBJcECQXle5DDnK85bjXOBo5FAI/JXjV\nhBktaTRM61EHtVQ6pnIEcBGmZCr0LW6Am9n75vg7OUiGL+JP4MB8wnR7U+JSLq4R\nFL5zKUM6eZ9solvpj7tvJFz+KzHYn7hQxYUiurmGDfluA8tClMez4wXAWQKBgDUG\n8ztxHIX/a8iz93S7+3PZgAnD6IvaksXq/0Myk23nno+QxoW3bwsFWIig7ieJsXzC\nqvwc6D5A/cL7R7tewVXNXsfYct6ZWH0YHRQV8QXqXSPf6NG+NhlqUuzD36f6ZKfI\ndLRvelkEcMZ2tECntZ7p3ByoGrBrFVnJilx/1WdFAoGBAPA3D6cWxKD9Qd6bjNW5\n/1GrfJQGkQGCJ2YZud2yktz545ZnAwkJb9f74c5hua3bmljBLd+5B8LtD0EBoI13\niVV9i30PIeLcR/gS4sgzB3aP0yTcrd4eEP3pGeFLjQcb58pRzfpbiNpA8bh69G8r\nqgQ4gWoQJjV4vnZhVuAPsTeK\n-----END PRIVATE KEY-----\n",
+  "client_email": "myserviceaccount@smarthomelight-32b56.iam.gserviceaccount.com",
+  "client_id": "105376646561599761324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/myserviceaccount%40smarthomelight-32b56.iam.gserviceaccount.com"
+}
