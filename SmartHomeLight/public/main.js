@@ -49,8 +49,10 @@ function sendMessage(isOn) {
         'Content-Type': 'application/json'
   },
     'body': JSON.stringify({
-        'notification': notification,
-        'to': to
+        // 'notification': notification,
+        'data': {
+          'notification': notification},
+          'to': to
   })
   }).then(function(response) {
     console.log(response);
